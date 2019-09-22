@@ -1,5 +1,5 @@
 # Brickify
-##Maya Python Script to generate bricks on guide geometry
+## Maya Python Script to generate bricks on guide geometry
 
 ![gif](images/gif.gif)
 
